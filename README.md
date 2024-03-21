@@ -1,1 +1,1 @@
-# plato
+# Plato Studio
